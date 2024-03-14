@@ -1,0 +1,8 @@
+/* TO-DO List
+
+  1) make to-do list
+  2) think of stupid reasons to make stupid bot
+  3) expand to-do list
+  4) 
+
+*/
